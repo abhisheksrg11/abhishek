@@ -1,0 +1,132 @@
+.png{
+	width:30%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.header{
+	background-color:#0dd1cb;
+	font-size:10px;
+	display:flex;
+	justify-content:space-between;
+	padding:10px;
+	border: 1px solid #0dd1cb;
+	border-radius:0px 0px 0px 20px;
+}
+li{
+	color:white;
+}
+.i {
+	margin-left:10px;
+	margin-top:10px;
+	font-size:25px;
+	font-weight:bold;
+	color:white;
+	
+}
+.menu{
+	display:flex;
+	list-style-type:none;
+	font-size:20px;
+	
+}
+a{
+	text-decoration:none;
+}
+
+li{
+	margin:20px;
+}
+.hello{
+	text-align:center;
+	color:orange;
+}
+.p{
+	text-align:center;
+	font-size:20px;
+}
+h2{
+	text-align:center;
+}
+body{
+	margin:0px;
+}
+.name{
+	color:#b5d9ff;
+}
+.click{
+	text-align:center;
+	font-size:23px;
+}
+	
+.tech{
+	text-align:center;
+	background-color:#efeeec;
+	margin-top:50px;
+	padding:40px;
+}
+
+.skill{
+	color:blue;
+	font-weight:bold;
+	
+	
+	
+	
+}
+.plat{
+	color:blue;
+	font-weight:bold;
+	
+}
+.project{
+	font-weight:900;
+	font-size:30px;
+}
+.show{
+	margin-top:20px;
+	padding:30px;
+	text-align:center;
+}
+.my{
+	text-align:center;
+	font-size:20px;
+}
+.pcm{
+	color:blue;
+}
+.platform{
+	margin-right:17%;
+}
+.mark{
+	
+}
+.blog{
+	text-align:center;
+	background-color:#efeeec;
+	margin-top:50px;
+	padding:40px;
+}
+.mm{
+	font-weight:900;
+	font-size:30px;
+	
+}
+.learn{
+	font-size:20px;
+}
+.social{
+	font-size:30px;
+	font-weight:bold;
+	text-align:center;
+	margin-bottom:30px;
+	color:white;
+}
+.footer{
+	padding:50px;
+	text-align:center;
+	background-color:#0dd1cb;
+	border:1px solid #0dd1cb;
+	border-radius:0px 20px 0px 0px;
+}
